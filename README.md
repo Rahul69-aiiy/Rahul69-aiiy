@@ -6,7 +6,6 @@ I'm currently pursuing a **B.Tech in Computer Science Engineering at Delhi Techn
 
 - *Data Structures and Algorithms (DSA)*
 - *Web Development (Full Stack)*
-- *Machine Learning (ML)*
 
 ##  🌱 I’m from New Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 
