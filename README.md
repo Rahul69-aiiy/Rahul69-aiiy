@@ -34,7 +34,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 ### Used Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,bulmacss)]()
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)]()
 <br><br><br><br>
 
 ## 📫 How can you reach me?
