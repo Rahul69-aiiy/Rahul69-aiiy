@@ -22,20 +22,26 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 <!-- language -->
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css)]()
 
 <br/>
 
-### Used Tools/ frameworks:
+### Used Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bootstrap,bulma)]()
-### 📫 How can you reach me?
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]()
 
-- Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/)
+<br/>
+
+### Used Frameworks:
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,bulmacss)]()
+<br><br><br><br>
+
+## 📫 How can you reach me?
+
+- Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Rahul69-aiiy)
 - Instagram: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>]()
 - LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](www.linkedin.com/in/rahul-pratap-456a251bb)
-
-)
 - Email: [prataprahul7678@gmail.com](mailto:prataprahul7678@gmail.com)
 
 <!---
