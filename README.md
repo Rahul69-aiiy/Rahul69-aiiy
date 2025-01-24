@@ -11,7 +11,7 @@ I'm currently pursuing a **B.Tech in Computer Science Engineering at Delhi Techn
 
 
 ## ⚡ One line that describes me best? 
-A hard working boy who enjoys good humour & coding.😉😉
+A curious boy who enjoys good humour & coding.😉😉
 
 
 ## Familiar Tech Stack:
