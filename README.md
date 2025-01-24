@@ -31,9 +31,11 @@ A hard working boy who enjoys good humour & coding.😉😉
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bootstrap,bulma)]()
 ### 📫 How can you reach me?
 
-- Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Ekansh-Bhushan)
+- Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/)
 - Instagram: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>]()
-- LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://linkedin.com/ekansh_bhushan)
+- LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](www.linkedin.com/in/rahul-pratap-456a251bb)
+
+)
 - Email: [prataprahul7678@gmail.com](mailto:prataprahul7678@gmail.com)
 
 <!---
