@@ -21,7 +21,7 @@ A curious boy who enjoys good humour & coding.😉😉
 
 <!-- language -->
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,mongodb)]()
 
 <br/>
 
@@ -33,7 +33,7 @@ A curious boy who enjoys good humour & coding.😉😉
 
 ### Used Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)]()
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,express)]()
 <br><br><br><br>
 
 ## 📫 How can you reach me?
