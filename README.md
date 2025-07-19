@@ -21,7 +21,7 @@ A curious boy who enjoys good humour & coding.😉😉
 
 <!-- language -->
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,mongodb)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,mongodb)]()
 
 <br/>
 
